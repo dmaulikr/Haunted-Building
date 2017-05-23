@@ -1,6 +1,6 @@
 # Haunted-Building
 
-A top-down 2D puzzle game developed with Unity.
+A top-down 2D puzzle game developed with Unity. The goal is to escape the building by finding the key to move to the next room.
 
 ## Playing the game
 
