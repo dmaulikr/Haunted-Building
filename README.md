@@ -17,3 +17,7 @@ Kevin Tang - Invisible floor level, game art / animations
 Daniel Doyle - maze level, game audio, collisions
 
 Nikhil Shankar - boulder level, triggers
+
+## Acknoweldgements
+
+Music from Resistor Anthems by Eric Skiff 
